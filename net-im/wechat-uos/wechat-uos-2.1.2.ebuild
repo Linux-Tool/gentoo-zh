@@ -7,7 +7,7 @@ inherit unpacker xdg
 
 DESCRIPTION="wechat"
 HOMEPAGE="https://web.wechat.com"
-SRC_URI="https://home-store-packages.uniontech.com/appstore/pool/appstore/c/com.tencent.weixin/com.tencent.weixin_${PV}_amd64.deb"
+SRC_URI="https://home-store-packages.uniontech.com/appstore/pool/appstore/c/com.tencent.weixin/com.tencent.weixin_2.1.2_amd64.deb"
 
 LICENSE="MIT"
 KEYWORDS="~amd64"
